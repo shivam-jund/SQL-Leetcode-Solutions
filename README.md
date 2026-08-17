@@ -1,6 +1,6 @@
 # SQL LeetCode Solutions
 
-Collection of 48+ solved SQL LeetCode problems.
+Collection of solved SQL LeetCode problems.
 
 ## Overview
 
